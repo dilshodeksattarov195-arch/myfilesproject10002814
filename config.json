@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervalidate",
+        "uuid": 19661418,
+        "checksum": "1posno"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
